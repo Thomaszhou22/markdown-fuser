@@ -6,9 +6,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Thomaszhou22/skill-fuser?style=social)](https://github.com/Thomaszhou22/skill-fuser/stargazers)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
-[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://skill-fuser.vercel.app)
+[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://markdown-fuser.vercel.app)
 
-[Live Demo](https://skill-fuser.vercel.app) | [GitHub](https://github.com/Thomaszhou22/skill-fuser) | [Research](#-research-background)
+[Live Demo](https://markdown-fuser.vercel.app) | [GitHub](https://github.com/Thomaszhou22/skill-fuser) | [Research](#-research-background)
 
 </div>
 
@@ -85,7 +85,7 @@ Upload Skills → AI classifies every paragraph by importance (Core Rule / Backg
 
 ### Use Online (Recommended)
 
-Visit: **[https://skill-fuser.vercel.app](https://skill-fuser.vercel.app)** — no signup, no install.
+Visit: **[https://markdown-fuser.vercel.app](https://markdown-fuser.vercel.app)** — no signup, no install.
 
 ### How to Use
 

@@ -6,9 +6,9 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Thomaszhou22/skill-fuser?style=social)](https://github.com/Thomaszhou22/skill-fuser/stargazers)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
-[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://skill-fuser.vercel.app)
+[![Deploy with Vercel](https://img.shields.io/badge/Vercel-indigo?style=flat&logo=vercel)](https://markdown-fuser.vercel.app)
 
-[在线演示](https://skill-fuser.vercel.app) | [GitHub](https://github.com/Thomaszhou22/skill-fuser) | [研究背景](#研究背景)
+[在线演示](https://markdown-fuser.vercel.app) | [GitHub](https://github.com/Thomaszhou22/skill-fuser) | [研究背景](#研究背景)
 
 </div>
 
@@ -85,7 +85,7 @@ Skill Fuser 是一个 AI 驱动的工具，用于将多个 AI Agent 的 SKILL.md
 
 ### 在线使用（推荐）
 
-直接访问 **[https://skill-fuser.vercel.app](https://skill-fuser.vercel.app)** — 无需注册。
+直接访问 **[https://markdown-fuser.vercel.app](https://markdown-fuser.vercel.app)** — 无需注册。
 
 ### 使用步骤
 
